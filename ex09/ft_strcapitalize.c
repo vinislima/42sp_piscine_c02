@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcapitalize.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: vinda-si <vinda-si@student.42.fr>          +#+  +:+       +#+        */
+/*   By: vinda-si <vinda-si@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/28 15:20:19 by vinda-si          #+#    #+#             */
-/*   Updated: 2024/09/02 12:06:31 by vinda-si         ###   ########.fr       */
+/*   Updated: 2024/11/20 18:38:10 by vinda-si         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -108,16 +108,16 @@ char	*ft_strcapitalize(char *str)
 	return (str);
 }
 
-int	main(void)
-{
-	// declaramos e atribuímos uma string à str para
-	// testar a função ft_strcapitalize, contém paralavras no
-	// início com letra minúsculas e palavras com maiúsculas no
-	// meio da string
-	char	str[] = " salut, comme TU vas ? 42mots.";
-	// passamos para a função a string
-	ft_strcapitalize(str);
-	// realizamos a impressão da string modificada
-	printf("%s\n", str);
-	return (0);
-}
+// int	main(void)
+// {
+// 	// declaramos e atribuímos uma string à str para
+// 	// testar a função ft_strcapitalize, contém paralavras no
+// 	// início com letra minúsculas e palavras com maiúsculas no
+// 	// meio da string
+// 	char	str[] = " salut, comme TU vas ? 42mots.";
+// 	// passamos para a função a string
+// 	ft_strcapitalize(str);
+// 	// realizamos a impressão da string modificada
+// 	printf("%s\n", str);
+// 	return (0);
+// }
