@@ -107,3 +107,17 @@ char	*ft_strcapitalize(char *str)
 	// se retorna a string alterada
 	return (str);
 }
+
+int	main(void)
+{
+	// declaramos e atribuímos uma string à str para
+	// testar a função ft_strcapitalize, contém paralavras no
+	// início com letra minúsculas e palavras com maiúsculas no
+	// meio da string
+	char	str[] = " salut, comme TU vas ? 42mots.";
+	// passamos para a função a string
+	ft_strcapitalize(str);
+	// realizamos a impressão da string modificada
+	printf("%s\n", str);
+	return (0);
+}
