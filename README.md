@@ -22,8 +22,6 @@ The exercises increase in difficulty and aim to strengthen understanding of C st
 
 ## Usage
 
----
-
 Uncomment the main and use the command below.
 
 ```c
