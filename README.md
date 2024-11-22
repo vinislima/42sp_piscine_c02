@@ -1,8 +1,4 @@
-# Untitled
-
 ## C 02
-
----
 
 These functions primarily focus on string manipulation and aim to strengthen understanding of character operations, memory management, and pointer usage.
 
