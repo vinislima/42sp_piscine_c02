@@ -31,6 +31,7 @@ cc -Wall -Wextra -Werror {file}
 ---
 <details>
     <summary>Exercises:</summary>
+    
     - [ex00:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex00/ft_strcpy.c)
         
         ```c
