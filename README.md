@@ -32,9 +32,9 @@ cc -Wall -Wextra -Werror {file}
 <details>
         <summary>Exercises:</summary>
     
-    - [ex00:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex00/ft_strcpy.c)
+- [ex00:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex00/ft_strcpy.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -96,7 +96,7 @@ cc -Wall -Wextra -Werror {file}
         // 	// compartamentos das funções criadas, com as originais
         // }
         
-        ```
+  ```
         
     - [ex01](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex01/ft_strncpy.c):
         
