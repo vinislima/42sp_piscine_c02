@@ -98,9 +98,9 @@ cc -Wall -Wextra -Werror {file}
         
   ```
         
-    - [ex01](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex01/ft_strncpy.c):
+- [ex01](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex01/ft_strncpy.c):
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -163,11 +163,11 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%s",ft_strncpy(dest, src, n));
         // 	return(0);
         // }
-        ```
+  ```
         
-    - [ex02:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex02/ft_str_is_alpha.c)
+- [ex02:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex02/ft_str_is_alpha.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -248,11 +248,11 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%i\n", ft_str_is_alpha("teste"));
         // 	return (0);
         // }
-        ```
+  ```
         
-    - [ex03:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex03/ft_str_is_numeric.c)
+- [ex03:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex03/ft_str_is_numeric.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -319,11 +319,11 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%i\n", ft_str_is_numeric("1234A6789"));
         // 	return (0);
         // }
-        ```
+  ```
         
-    - [ex04:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex04/ft_str_is_lowercase.c)
+- [ex04:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex04/ft_str_is_lowercase.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -395,11 +395,11 @@ cc -Wall -Wextra -Werror {file}
         // 	// aqui também o retorno deve ser zero, pois há um numeral
         // 	printf("%i\n", ft_str_is_lowercase("aa1sed"));
         // }
-        ```
+  ```
         
-    - [ex05:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex05/ft_str_is_uppercase.c)
+- [ex05:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex05/ft_str_is_uppercase.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -470,11 +470,11 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%i\n", ft_str_is_uppercase("TAA1ASD"));
         // 	return (0);
         // }
-        ```
+  ```
         
-    - [ex06:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex06/ft_str_is_printable.c)
+- [ex06:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex06/ft_str_is_printable.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -547,11 +547,11 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%i\n", ft_str_is_printable(27));
         // 	return (0);
         // }
-        ```
+  ```
         
-    - [ex07:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex07/ft_strupcase.c)
+- [ex07:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex07/ft_strupcase.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -630,11 +630,11 @@ cc -Wall -Wextra -Werror {file}
         // 	}
         // 	return (0);
         // }
-        ```
+  ```
         
-    - [ex08:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex08/ft_strlowcase.c)
+- [ex08:](https://github.com/vinislima/42sp_piscine_c02/blob/main/ex08/ft_strlowcase.c)
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -710,11 +710,11 @@ cc -Wall -Wextra -Werror {file}
         // 	}
         // 	return (0);
         // }
-        ```
+  ```
         
-    - ex09:
+- ex09:
         
-        ```c
+  ```c
         /* ************************************************************************** */
         /*                                                                            */
         /*                                                        :::      ::::::::   */
@@ -838,5 +838,5 @@ cc -Wall -Wextra -Werror {file}
         // 	printf("%s\n", str);
         // 	return (0);
         // }
-        ```
+  ```
 </details>
